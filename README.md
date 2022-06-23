@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 💬 I’m a PhD student in Harbin Institute of Technology. I'm focusing on the pre-trained models for language and vision.
+- 🔭 I’m currently working on the pre-trained models for language and vision (UniLMv2 & BEiT & VL-BEiT).
 <!--
 **addf400/addf400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
