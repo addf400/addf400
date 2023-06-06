@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💬 I’m a PhD student in Harbin Institute of Technology. Meawhile, I am in the joint PhD program with Microsoft Reserach Asia.
-- 🔭 I’m currently working on the pre-trained models for language and vision ([UniLMv2](https://arxiv.org/abs/2002.12804) & [BEiT](https://github.com/microsoft/unilm/tree/master/beit) & [VL-BEiT](https://arxiv.org/abs/2206.01127)).
+- 🔭 I’m currently working on the pre-trained models for language and vision ([Language: UniLMv2](https://arxiv.org/abs/2002.12804) & [Vision: BEiT](https://github.com/microsoft/unilm/tree/master/beit) & [Langugae + Vision: BEiT-3](https://arxiv.org/abs/2208.10442).
 - 📫 How to reach me: email: x@y, x = addf400 & y = foxmail.com. [Google scholar profile](https://scholar.google.com/citations?user=lXCZGqYAAAAJ&hl=en). 
 <!--
 **addf400/addf400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
